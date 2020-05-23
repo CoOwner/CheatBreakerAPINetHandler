@@ -7,6 +7,10 @@
 
 The CheatBreakerAPINetHandler is the container for all of CheatBreaker's packet handling.
 
+## JAR
+
+The .jar file can be found in my release page, https://github.com/CoOwner/CheatBreakerAPINetHandler/releases.
+
 ## Reporting an issue
 
 If you suspect an issue you can submit one [here](https://github.com/CoOwner/CheatBreakerAPINetHandler/issues).
